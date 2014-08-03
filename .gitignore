@@ -1,0 +1,7 @@
+#Netbeans specific
+nbproject/
+
+#kohana base stuff
+kohana/system
+kohana/modules
+
